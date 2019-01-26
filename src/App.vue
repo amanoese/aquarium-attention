@@ -47,7 +47,8 @@ export default {
 <style>
 body {
   /*background-color: rgba(0, 0, 0, 0.0);*/
-  background-color: transparent;
+  /*background-color: transparent;*/
+  background-color: black;
 }
 .just-window-size {
   height : 100vh;
